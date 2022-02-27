@@ -5,6 +5,7 @@ This repository contains some pages that I've created during carnaval breake her
 ### Projects: 
 💌 [Penpal.io](https://github.com/calvitoria/carnacode/tree/main/landing-page%20penpal.io) 
 
+
 <div>
-   <img align="center" src="https://user-images.githubusercontent.com/95686401/155861700-9472c24c-1592-40e9-8121-64054e8966be.png" />
+   <img align="center" src="https://user-images.githubusercontent.com/95686401/155863156-1b32802a-4c23-41ca-b585-80b7b07f9dab.gif" />
 </div>
