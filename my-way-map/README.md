@@ -2,7 +2,7 @@ This project was made with HTML & CSS in order to practice coding. Hope you like
 
 ### The outcome: 
 <div>
-   <img align="center" src="https://user-images.githubusercontent.com/95686401/155904440-927d6703-c179-47ed-a87c-dc5649772340.png" />
+   <img align="center" src="https://user-images.githubusercontent.com/95686401/155904714-a4834d10-59f1-475b-8ba4-3e595a36fc0f.png" />
 </div>
 <br>
 <br>
