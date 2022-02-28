@@ -1,0 +1,118 @@
+/* CSS HEX */
+/* --yellow: #FEC10Fff;
+--blue: #00B8E3ff;
+--orange: #FE7332ff;
+--lilás: #ECB0ECff;
+--pink: #FC2990ff;
+--lilás: #C57CC7ff; */
+
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+body {
+    font-family: 'Lexend Deca', sans-serif;
+    background-image: url("images/background.png");
+    background-size: cover;
+}
+
+header {
+    width: auto;
+}
+
+a {
+    text-decoration: none;
+    color: #2f323a;
+}
+
+a:hover {
+    color: #00B8E3ff;
+}
+
+ul {
+    list-style: none;
+}
+
+.margin {
+ margin: 0 150px;
+}
+
+.navbar {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#logo{
+   position: absolute;
+   
+    
+}
+
+.nav-ul {
+    text-align: center;
+}
+
+.nav-item {
+    display: inline-block;
+    vertical-align: middle;
+    padding: 0 25px;
+    font-size: 16px;   
+    text-transform: uppercase;
+      
+    
+}
+
+.navbar-icons {
+    /* position: absolute; */
+    float: right;
+    margin-top: -20px;
+    
+}
+.nav-icon {
+    display: inline-block;
+    padding-left: 5px;  
+    
+    
+}
+
+/* home ------------------------------------------------ */
+
+.home-wrapper {
+    margin-top: 150px;
+}
+
+.text-home {
+    width: 50%;
+    
+}
+
+.title {
+    font-size: 70px;
+    margin-bottom: 20px;
+    
+}
+
+.span-creamy {
+    /* font-family: 'Patua One', cursive; */
+    font-weight: 900;
+    /* font-style: oblique;  */
+    color: #00B8E3ff;
+}
+
+.home-p {
+    font-weight: 200;
+    /* text-align: justify; */
+    width: 75%;
+    margin-bottom: 40px;
+
+}
+
+.social-item {
+    display: inline-block;
+}
+
+.social-item {
+    /* margin-top: 60px; */
+    padding-right: 10px;
+}
