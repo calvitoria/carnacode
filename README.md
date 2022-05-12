@@ -1,7 +1,7 @@
 # carnacode 🎉
 
-This repository contains some pages that I've created during carnaval breake here in Brazil. The goal is to make progress using HTML and CSS, by training it. If you have feedbacks, please, don't hesitate to give it. I would love to know what things to improve. 
-##### Disclamer: As soon as I enter the flex-box world of -better- possibilities, I will remake all this projects, in order to fit every screen!
+This repository contains some pages that I've created during carnaval break here in Brazil. The goal was to make progress using HTML and CSS, by exercising it. If you have feedbacks, please, don't hesitate to give it. I would love to know what things to improve. 
+##### Disclamer: I will be remaking these with flexbox and also using tailwindCss soon
 
 
 ### Projects: 
